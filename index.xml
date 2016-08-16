@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>clgithub.github.io/</link>
+    <link>http://clgithub.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Aug 2016 21:06:33 +0800</lastBuildDate>
-    <atom:link href="clgithub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://clgithub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>/clgithub.github.io/about/</link>
+      <link>http://clgithub.github.io/about/</link>
       <pubDate>Mon, 15 Aug 2016 21:06:33 +0800</pubDate>
       
-      <guid>/clgithub.github.io/about/</guid>
+      <guid>http://clgithub.github.io/about/</guid>
       <description>&lt;p&gt;test hugo&lt;/p&gt;
 </description>
     </item>
