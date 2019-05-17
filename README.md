@@ -1,2 +1,0 @@
-# CLgithub.github.io
-hugoTest
