@@ -3,7 +3,11 @@
   <channel>
     <title>Tags on L</title>
     <link>https://clgithub.github.io/tags/</link>
-    <description>Recent content in Tags on L</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://clgithub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>L (Tags)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    <atom:link href="https://clgithub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

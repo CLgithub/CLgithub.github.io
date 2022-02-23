@@ -3,7 +3,11 @@
   <channel>
     <title>Categories on L</title>
     <link>https://clgithub.github.io/categories/</link>
-    <description>Recent content in Categories on L</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://clgithub.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>L (Categories)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    <atom:link href="https://clgithub.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
