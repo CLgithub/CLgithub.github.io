@@ -5,10 +5,20 @@
     <link>https://clgithub.github.io/</link>
     <description>L</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 11:08:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:11:11 +0800</lastBuildDate>
     
     <atom:link href="https://clgithub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SpringBoot原理之@SpringBootApplication源码解析</title>
+      <link>https://clgithub.github.io/posts/springboot%E5%8E%9F%E7%90%86%E4%B9%8Bspringbootapplication%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Mon, 21 Mar 2022 00:11:11 +0800</pubDate>
+      
+      <guid>https://clgithub.github.io/posts/springboot%E5%8E%9F%E7%90%86%E4%B9%8Bspringbootapplication%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CLgithub/spring0/blob/master/doc/SpringBoot%E5%8E%9F%E7%90%86.md&#34;&gt;详细&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>漂亮桌面</title>
