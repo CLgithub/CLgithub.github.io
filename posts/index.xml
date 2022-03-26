@@ -5,18 +5,26 @@
     <link>https://clgithub.github.io/posts/</link>
     <description>L (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Mar 2022 00:11:11 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Mar 2022 17:18:49 +0800</lastBuildDate>
     
     <atom:link href="https://clgithub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SpringBoot原理之@SpringBootApplication源码解析</title>
-      <link>https://clgithub.github.io/posts/springboot%E5%8E%9F%E7%90%86%E4%B9%8Bspringbootapplication%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</link>
-      <pubDate>Mon, 21 Mar 2022 00:11:11 +0800</pubDate>
+      <title>租房照片</title>
+      <link>https://clgithub.github.io/posts/%E7%A7%9F%E6%88%BF%E7%85%A7%E7%89%87/</link>
+      <pubDate>Sat, 26 Mar 2022 17:18:49 +0800</pubDate>
       
-      <guid>https://clgithub.github.io/posts/springboot%E5%8E%9F%E7%90%86%E4%B9%8Bspringbootapplication%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CLgithub/spring0/blob/master/doc/SpringBoot%E5%8E%9F%E7%90%86.md&#34;&gt;详细&lt;/a&gt;&lt;/p&gt;
+      <guid>https://clgithub.github.io/posts/%E7%A7%9F%E6%88%BF%E7%85%A7%E7%89%87/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/6_1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/6_9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
