@@ -5,10 +5,28 @@
     <link>https://clgithub.github.io/posts/</link>
     <description>L (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Feb 2022 11:08:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 10:59:32 +0800</lastBuildDate>
     
     <atom:link href="https://clgithub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一些物理规律理解</title>
+      <link>https://clgithub.github.io/posts/%E4%B8%80%E4%BA%9B%E7%89%A9%E7%90%86%E8%A7%84%E5%BE%8B%E7%90%86%E8%A7%A3/</link>
+      <pubDate>Sat, 01 Oct 2022 10:59:32 +0800</pubDate>
+      
+      <guid>https://clgithub.github.io/posts/%E4%B8%80%E4%BA%9B%E7%89%A9%E7%90%86%E8%A7%84%E5%BE%8B%E7%90%86%E8%A7%A3/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;弱相互作用下宇称不守恒&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;1957年杨振宁和李正道共同提出&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5f9lNwEdlcM&#34;&gt;李永乐老师视频讲解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;个人理解：弱相互作用下宇称不守恒，相当于是弱相互作用下，粒子位置，不具备镜像对称性（物理规律的镜像性对应了宇称的守恒，宇称不守恒，即没有镜像性）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>漂亮桌面</title>
