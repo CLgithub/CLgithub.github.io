@@ -3,50 +3,17 @@
   <channel>
     <title>Posts on L</title>
     <link>https://clgithub.github.io/posts/</link>
-    <description>L (Posts)</description>
+    <description>Recent content in Posts on L</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 21:18:38 +0800</lastBuildDate>
-    
-    <atom:link href="https://clgithub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Jun 2024 21:18:38 +0800</lastBuildDate><atom:link href="https://clgithub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HHKB键盘更新记</title>
       <link>https://clgithub.github.io/posts/hhkb%E9%94%AE%E7%9B%98%E6%9B%B4%E6%96%B0%E8%AE%B0/</link>
       <pubDate>Thu, 13 Jun 2024 21:18:38 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/hhkb%E9%94%AE%E7%9B%98%E6%9B%B4%E6%96%B0%E8%AE%B0/</guid>
-      <description>&lt;p&gt;前沿：故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多&lt;a href=&#34;https://support.apple.com/zh-cn/111975&#34;&gt;更新&lt;/a&gt;，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了&lt;!-- raw HTML omitted --&gt;蝴蝶键盘&lt;!-- raw HTML omitted --&gt;，没错，就是蝴蝶键盘。蝴蝶键盘相比于传统剪刀脚键盘有众多优缺点，不必细说，单说最让人诟病的一点，在使用一定时间后，由于灰尘的落入，蝴蝶键盘会出现双击或不灵的情况。我的MacBook Pro (15-inch, 2017)也未能幸免，在正常使用一年时间后，部分按键也出现了问题，尝试过各种清理，都无济于事。大量用户出现键盘故障，甚至还有&lt;a href=&#34;https://github.com/aahung/Unshaky&#34;&gt;Unshaky&lt;/a&gt;这样的软件，来尽可能的降低蝴蝶键盘故障带来的不变，虽然苹果之后推出了对应的&lt;a href=&#34;https://support.apple.com/zh-cn/keyboard-service-program-for-mac-notebooks&#34;&gt;维修更换计划&lt;/a&gt;，但那是另外的故事了。&lt;/p&gt;
-&lt;p&gt;购买：于是在2018年，购买了我这块HHKB-BT，HHKB蓝牙版本，无刻印白色版（之后配了几个彩色键帽）
-&lt;img src=&#34;../../images/6_1.png&#34; alt=&#34;&#34;&gt;
-快乐使用：该版本只支持蓝牙单模连接，且只能同时连接一台设备，即便如此，也不妨碍我快乐的使用它。最开始纠结于如何摆放，是摆在MacBook Pro前面，单独把MacBook Pro支起来呢，还是如何摆放，还有兼顾到触控板的使用，直到我发现HHKB刚好可以完美的放在MacBookPro原键盘之上，底部的4个橡胶垫，刚好可以完美的避开MBP原键盘，能完美的放置在MBP之上，也不知道是否是故意这样设计的，瞬间感觉如鱼得水，使用起来很舒服，而且并不影响原触控板的使用
-&lt;img src=&#34;../../images/6_3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;静电容轴，没有炫酷的背光，没有方向键，甚至可以没有刻印，如此简洁的设计，还能完美放在MacBookPro原键盘位置，这键盘简直太完美，放在桌子上，与触控版配合，也是如此协调
-&lt;img src=&#34;../../images/6_4.JPG&#34; alt=&#34;&#34;&gt;
-快捷键：MacOS（OSX）切换应用，有个方便的快捷键，「command+tab」向前切换，那向后切换呢？在其他系统中，可以按住「Shift+command+tab」，但在MacOS中，有更方便更符合直觉的操作，就是「command+`」，而在HHKB上，`键被移动到了右上角，tab键上方变成了esc键，符合直觉的向后切换操作没了，如何解决？神器&lt;a href=&#34;https://karabiner-elements.pqrs.org&#34;&gt;karabiner-elements&lt;/a&gt;登场，通过karabiner-elements，可以进行按键映射，早就有人将「左command键+esc」映射为了「command+`」，那熟悉的符合直觉的快捷键右回来了，但我不明白的是，为什么他只做了「左command键+esc」，并非左右两侧command键都能用，于是我在此基础上，做了点改动，左右两侧command都能进行映射，&lt;a href=&#34;https://ke-complex-modifications.pqrs.org/#command-LR_and_esc_to_command_and_backquote&#34;&gt;「command键+esc」映射为「command+`」&lt;/a&gt;，除了改映射外，还添加了&lt;a href=&#34;https://ke-complex-modifications.pqrs.org/#left_option_plus_hjkl_to_arrows&#34;&gt;Map Left Option plus h/j/k/l to Arrows&lt;/a&gt;，按住左option键时，便可使用vim的方向键（hjkl）作为方向键。还有诸多按键映射&lt;a href=&#34;https://ke-complex-modifications.pqrs.org/?q=&#34;&gt;在此&lt;/a&gt;，各位可自行按需食用。&lt;/p&gt;
-&lt;p&gt;签名：我是从哪里得知有HHKB这样神级键盘存在的呢，答案是播客节目&lt;a href=&#34;https://pan.icu&#34;&gt;内核恐慌（kernel panic）&lt;/a&gt;。最开始通过朋友推荐，开始收听&lt;a href=&#34;https://ipn.li&#34;&gt;IPN&lt;/a&gt;的节目（当时《内核恐慌》属于IPN旗下）。2023年9月2日，内核恐慌发布上海聚会通知：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;吴涛回国省亲，我们借机在上海举行线下聚会。十年一遇、千载难逢；机不可失、失不再来！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;活动一：9月7日周四16～17点Rio在「INCLUSION·外滩大会」主持题为《国际化开源社区与开放创新》的圆桌讨论，地点：上海黄埔世博园外滩大会C2馆。&lt;/li&gt;
-&lt;li&gt;活动二：9月9日周六14～18点《内核恐慌》线下聚会，地点：上海黄埔世博园外滩大会创新舞台。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;《内核恐慌》基本上算是自己的播客启蒙，听了多年，许多期节目甚至反复一听再听，能有线下见到两位主持人的机会，犹豫了一下，安排了上海的行程。到上海后如愿参加了&lt;a href=&#34;https://x.com/leichen070/status/1731937469711438327&#34;&gt;聚会&lt;/a&gt;，见到了Rio与吴涛，在吴涛给纪念品签名时，我拿出了自己的HHKB，请两位主持人在我HHKB上签了名，全世界仅此一块😂
-&lt;img src=&#34;../../images/6_5.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;改造：最近购入IpadAir，有用一套键盘+触控板，切换控制Mac与Pad的诉求，Apple的「Universal Control」通用控制需要至少MacOS12，而自己的MacOS版本并不满足，又不想更新操作系统，于是准备把HHKB进行改造，使之能进行多设备切换，HHKB后期推出的HHKBRID是能进行多设备切换的，唯独我这块HHKB-BT只能通过蓝牙连接单一设备，有个usb接口，也只能用来充电，不能用来有线连接。HHKB还推出过25周年雪白纪念版，普通HHKB是黄白色，会显旧，雪白无刻印版本太对我的审美，若不是这块有签名，我可能会出售后换购雪白无刻印版本，还能多设备切换，简直完美！
-&lt;img src=&#34;../../images/6_6.jpg&#34; alt=&#34;&#34;&gt;
-最终在某宝，找到了&lt;a href=&#34;https://hhkb.xorlink.com/production_introduction&#34;&gt;解决方案&lt;/a&gt;，对主控芯片进行更换，可以完美实现多设备切换，并且实现多模连接（蓝牙与USB）
-&lt;img src=&#34;../../images/6_7.jpg&#34; alt=&#34;&#34;&gt;
-改造完成后，HHKB仿佛获得了重生，可以同时连接多台设备，还能进行热切换，简直不要太完美！
-&lt;img src=&#34;../../images/6_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Apple设计：Apple之所以会采用蝴蝶键盘，无非是蝴蝶键盘整体厚度会下降，也更漂亮，至今我依旧认为2016～2019的MacBookPro，是最漂亮的MacBookPro，精致好看，棱角分明，干净简洁，视觉上也显轻薄，完全遵循「大道至简」的原则。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;对于大多数公司来说，设计是被工程技术引领的。工程师们制定产品的规格和要求，然后设计师们在据此设计模型和外壳，但对于乔布斯来说，这个过程截然不同。在苹果公司创立之初，乔布斯首先确定了Mac电脑的外壳之后，工程师们才一次制作合适的主板和元件。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;乔纳森离开苹果，这一代的设计完全放飞自我，完全是退步，MacBookPro厚重感塑料感太强，对着屏幕的硕大出风口，还有那底部和精致豪不沾边的钢印，还有让人难以接受的刘海屏……&lt;/p&gt;
-&lt;p&gt;虽然在设计上放飞了自我，但Apple的思想依然还在，2024年WWDC，AI（Artificial Intelligence）人工智能，在Apple这里变成了（Apple Intelligence），整个构建思路上也确实体现了Apple的思想的独特之处，Apple理解的AI技术，是要用于服务人的，其实Apple并不在乎用了什么技术，更在乎的是这个技术是否能给人带来更美好的体验，是否能帮助做出体验更好的功能，之前的touchID，再到后来的faceID、空间音频等等，Apple一直强调的是能否带来更好体验。这次AI革命也是，Apple将AI集成进系统级别，希望AI能在更深的层面里，给应用带来好的功能，给人带来更美好的体验，而非单纯的做一个AI工具（现在各家都在做的语言大模型）。&lt;/p&gt;
-</description>
+      <description>故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多&lt;a href=&#34;https://support.apple.com/zh-cn/111975&#34;&gt;更新&lt;/a&gt;，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了&lt;!-- raw HTML omitted --&gt;蝴蝶键盘&lt;!-- raw HTML omitted --&gt;，没错，就是蝴蝶键盘&amp;hellip;</description>
     </item>
     
     <item>
@@ -55,16 +22,7 @@
       <pubDate>Sat, 01 Oct 2022 10:59:32 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/%E4%B8%80%E4%BA%9B%E7%89%A9%E7%90%86%E8%A7%84%E5%BE%8B%E7%90%86%E8%A7%A3/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;弱相互作用下宇称不守恒&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;1957年杨振宁和李正道共同提出&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5f9lNwEdlcM&#34;&gt;李永乐老师视频讲解&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;个人理解：弱相互作用下宇称不守恒，相当于是弱相互作用下，粒子位置，不具备镜像对称性（物理规律的镜像性对应了宇称的守恒，宇称不守恒，即没有镜像性）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>弱相互作用下宇称不守恒 1957年杨振宁和李正道共同提出 李永乐老师视频讲解 个人理解：弱相互作用下宇称不守恒，相当于是弱相互作用下，粒子位置，不</description>
     </item>
     
     <item>
@@ -73,13 +31,7 @@
       <pubDate>Wed, 23 Feb 2022 11:08:06 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/%E6%BC%82%E4%BA%AE%E6%A1%8C%E9%9D%A2/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/5_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/5_3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/5_4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/5_5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/5_6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -88,46 +40,7 @@
       <pubDate>Wed, 02 Feb 2022 01:31:00 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/%E6%9E%81%E5%8C%96%E7%A0%81%E7%90%86%E8%A7%A3/</guid>
-      <description>&lt;p&gt;在看了b站up主&lt;a href=&#34;https://space.bilibili.com/35894872&#34;&gt;老奇好好奇&lt;/a&gt;的视频&lt;a href=&#34;https://www.bilibili.com/video/BV1fq4y1g7hq?spm_id_from=333.999.0.0&#34;&gt;《5G，华为，土耳其——我花了两个月，搞懂了5G背后的秘密》&lt;/a&gt;后，有很多感触，将自己的思考与理解记录下来！&lt;/p&gt;
-&lt;p&gt;从信息发出到信息接收，需要传输信息的通道，即信道，为了让信息更好的在信道里传输，需要对信息进行编码。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;通过正确编码，有可能通过该信道以速率C传送信息，而错误频率或疑义度可以小到令人满意。而这一表述对于任何大于C的速率都是不成立的。如果尝试以一个高于C的速率进行传送，比如C+R1，则必然存在一个等于或大于R1的疑义度&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;因为有噪声的存在，永远都无法完完全全准确无误的传送信息，我们只能以「错误频率或疑义度可以小到令人满意」的程度传输信息。接收方正确还原发送方发送消息能力的上限称为信道容量C。我们只能以小于C的信息速率进行信息传输，同时差错率要令人满意，超过C会带来更多的错误频率或疑义度。这就是香农极限。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;香农极限：在会&lt;!-- raw HTML omitted --&gt;随机发生误码&lt;!-- raw HTML omitted --&gt;的信道上进行&lt;!-- raw HTML omitted --&gt;无差错传输&lt;!-- raw HTML omitted --&gt;的&lt;!-- raw HTML omitted --&gt;最大传输速率&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;而极化码这种编码方式的信道可以让信道容量C尽可能的大，在会&lt;!-- raw HTML omitted --&gt;随机发生误码&lt;!-- raw HTML omitted --&gt;的信道上进行&lt;!-- raw HTML omitted --&gt;无差错传输&lt;!-- raw HTML omitted --&gt;时，传输速率尽可能的大（香农极限）&lt;/p&gt;
-&lt;p&gt;逐步理解：&lt;/p&gt;
-&lt;p&gt;目标是（香农极限），在有噪信道编码中，找出一种编码方式的信道，该信道的信道容量尽可能的大&lt;/p&gt;
-&lt;p&gt;BEC信道（Binary Erasure Channel）二进制擦除信道，信道特点：接收端完全收不到信息，或接收端收到正确的信息。为了更好的理解，我用一个开关来模拟信息发送端，用「时钟信号」加一个「与门」来模拟BEC信道，用一个LED灯泡来显示接收端收到的信号，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/4_1.png&#34; alt=&#34;BEC信道模型&#34;&gt;&lt;/p&gt;
-&lt;p&gt;当时钟信号为1时表示该BEC信道传输成功，接收端能正确接收到发送端的信号，当时钟信号为0时表示该BEC信道传输失败，接收端完全收不到信息。令该BEC信道传输失败的概率为P，那该信道传输成功的概率就为1-P。&lt;/p&gt;
-&lt;p&gt;目标是，在有噪信道编码中，找出一种编码方式的信道，该信道的P尽可能的接近0&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Erdal_Ar%C4%B1kan&#34;&gt;Arikan&lt;/a&gt;用两个BEC信道，进行这样的组合&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/4_2.png&#34; alt=&#34;信道组合&#34;&gt;&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;要得到U1的信息
-已知：
-Y2=X2=U2 and Y1=X1=U1⊕U2 
-则
-U1=U2⊕Y1=Y2⊕Y1
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;也就是说，要得到U1，必须要同时得到Y1和Y2，即通道一和通道二同时传输成功。单个BEC信道传输失败的概率为P，假设为0.5，那单个BEC信道传输成功的概率为1-P=0.5，则通道一和通道二同时传输成功的概率为：(1-P)^2=0.25，该组合对于U1信息来说是W-信道&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;要得到U2的信息
-已知：
-U2=X2=Y2 and X1=U1⊕U2 and X1=Y1
-则
-U2=Y2 or U2=X1⊕U1=Y1⊕U1
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;也就是说，要得到U2，只要通道二传输成功，或者通道一传输成功并且知道U1，于是事先约定好U1，则要得到U2，只要通道一或者通道二其中一个传输成功即可，概率为1-P*P=0.75，该组合对于U2信息来说是W+信道&lt;/p&gt;
-&lt;p&gt;于是得到了一个比基础信道BEC信道传输成功率高的W+信道，逻辑仿真如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/4_3.png&#34; alt=&#34;信道组合仿真&#34;&gt;&lt;/p&gt;
-&lt;p&gt;BEC信道一和BEC信道二其中只要有一个成功接通，发送端的信息就能准确的传输给接收端，可能有人会问仿真中异或门3的一个输入端为何接地，这是因为这里相当于U1，事先约定好的U1，可以输入任何预定的信息，接地0电位是因为0与任意数n异或都还是得到n本身。&lt;/p&gt;
-&lt;p&gt;再将W+作为基础信道，进行相同的组合，类似函数的嵌套y1=f(x)，y2=f(f(x))，y3=f(f(f(x)))……，也类似深度神经网络的反向传播。&lt;/p&gt;
-&lt;p&gt;为了方便的理解，我将这种嵌套做了逻辑仿真，相信还没理解的同学一看就明白：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/4_5.png&#34; alt=&#34;信道组合嵌套&#34;&gt;&lt;/p&gt;
-&lt;p&gt;只有当b、c、p、r、s、u、v、w 8个子通道同时传输失败时，发送端的信息才不正确的传输到接收端，单个传输失败的概率P=0.5，则该组合信道传输失败的概率为(1/2)^8=1/256~=0.0039，如视频中所述。&lt;/p&gt;
-&lt;p&gt;仿真软件中也给出了最后接收端收到信息的表达式&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ƒ = ((((b∙(0⊕(0⊕(0⊕a))))+(c∙(0⊕(0⊕a))))+((p∙(0⊕(0⊕a)))+(r∙(0⊕a))))+(((s∙(0⊕(0⊕a)))+(u∙(0⊕a)))+((v∙(0⊕a))+(w∙a))))
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>从信息发出到信息接收，需要传输信息的通道，即信道，为了让信息更好的在信道里传输，需要对信息进行编码&amp;hellip;</description>
     </item>
     
     <item>
@@ -136,8 +49,7 @@ U2=Y2 or U2=X1⊕U1=Y1⊕U1
       <pubDate>Tue, 11 Jan 2022 10:51:08 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/%E7%A5%9E%E4%B9%A6python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CLgithub/tensorFlowLearn/tree/master/learn2/0-book&#34;&gt;详细&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>详细</description>
     </item>
     
     <item>
@@ -146,9 +58,7 @@ U2=Y2 or U2=X1⊕U1=Y1⊕U1
       <pubDate>Fri, 07 Jan 2022 17:15:15 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/log4j-jndi%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CLgithub/Log4j2AttackLearn&#34;&gt;详细&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;​	「黑客就像变魔术」，其中原理未必有多高深，但巧妙的将简单的原理运用起来，便会产生神器的效果！&lt;/p&gt;
-</description>
+      <description>详细 ​ 「黑客就像变魔术」，其中原理未必有多高深，但巧妙的将简单的原理运用起来，便会产生神器的效果！</description>
     </item>
     
     <item>
@@ -157,8 +67,7 @@ U2=Y2 or U2=X1⊕U1=Y1⊕U1
       <pubDate>Fri, 07 Jan 2022 17:09:06 +0800</pubDate>
       
       <guid>https://clgithub.github.io/posts/%E4%B8%80%E4%B8%AA%E5%BE%88%E6%97%A9%E5%B0%B1%E6%9C%89%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
-      <description>&lt;p&gt;记录日常有趣事物，不管怎样，只是想把生命中有趣的事物、或是感悟或是思考记录下来，只有这种简单的文本格式的页面才是属于自己个人的，类型不限，可能有文字、视频、音频……，一个很早就有的想法，这是一个开始。&lt;/p&gt;
-</description>
+      <description>记录日常有趣事物，不管怎样，只是想把生命中有趣的事物、或是感悟或是思考记录下来，只有这种简单的文本格式的页面才是属于自己个人的，类型不限，可</description>
     </item>
     
   </channel>
