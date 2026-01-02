@@ -4,89 +4,79 @@
     <title>L</title>
     <link>https://clgithub.github.io/</link>
     <description>Recent content on L</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 07 Nov 2024 07:55:04 +0800</lastBuildDate><atom:link href="https://clgithub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 22:23:47 +0800</lastBuildDate>
+    <atom:link href="https://clgithub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI思考录-AI：人类智能的递归放大器</title>
+      <link>https://clgithub.github.io/posts/ai%E6%80%9D%E8%80%83%E5%BD%95/</link>
+      <pubDate>Thu, 01 Jan 2026 22:23:47 +0800</pubDate>
+      <guid>https://clgithub.github.io/posts/ai%E6%80%9D%E8%80%83%E5%BD%95/</guid>
+      <description>&lt;p&gt;这不是一篇结论性的文章，而是我对 AI 本质的一次阶段性理解。&lt;/p&gt;&#xA;&lt;p&gt;2026年，距离 AlphaGo 击败李世石这个“斯普特尼克时刻”已经整整 10 年，那也是我第一次直觉地意识到：AI 可能会成为影响人类认知结构的关键变量。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>赛车记2</title>
       <link>https://clgithub.github.io/posts/%E8%B5%9B%E8%BD%A6%E8%AE%B02/</link>
       <pubDate>Thu, 07 Nov 2024 07:55:04 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E8%B5%9B%E8%BD%A6%E8%AE%B02/</guid>
-      <description>没有想到会去跑第三站，结合这一站的log日志与视频，做一个总结吧！ 同样先说结果：本次再次刷新单圈最佳：1:24:86，理论最佳单圈：1:23</description>
+      <description>&lt;p&gt;没有想到会去跑第三站，结合这一站的log日志与视频，做一个总结吧！&#xA;&lt;img src=&#34;../../images/7-6.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;同样先说结果：本次再次刷新单圈最佳：1:24:86，理论最佳单圈：1:23:23，两回合正赛均以亚军带回&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>赛车记</title>
       <link>https://clgithub.github.io/posts/%E8%B5%9B%E8%BD%A6%E8%AE%B0/</link>
       <pubDate>Tue, 20 Aug 2024 21:42:37 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E8%B5%9B%E8%BD%A6%E8%AE%B0/</guid>
       <description>第一次下赛道，第一次跑比赛，最佳单圈：1:26:95，理论最佳单圈：1:25:50，排名第4，与领奖台插肩而过；2024年11月7日更新，刷新最佳单圈：1:24:86，理论最佳单圈：1:23:23，两回合正赛均以亚军带回</description>
     </item>
-    
     <item>
       <title>HHKB键盘更新记</title>
       <link>https://clgithub.github.io/posts/hhkb%E9%94%AE%E7%9B%98%E6%9B%B4%E6%96%B0%E8%AE%B0/</link>
       <pubDate>Thu, 13 Jun 2024 21:18:38 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/hhkb%E9%94%AE%E7%9B%98%E6%9B%B4%E6%96%B0%E8%AE%B0/</guid>
       <description>故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多&lt;a href=&#34;https://support.apple.com/zh-cn/111975&#34;&gt;更新&lt;/a&gt;，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了&lt;!-- raw HTML omitted --&gt;蝴蝶键盘&lt;!-- raw HTML omitted --&gt;，没错，就是蝴蝶键盘&amp;hellip;</description>
     </item>
-    
     <item>
       <title>一些物理规律理解</title>
       <link>https://clgithub.github.io/posts/%E4%B8%80%E4%BA%9B%E7%89%A9%E7%90%86%E8%A7%84%E5%BE%8B%E7%90%86%E8%A7%A3/</link>
       <pubDate>Sat, 01 Oct 2022 10:59:32 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E4%B8%80%E4%BA%9B%E7%89%A9%E7%90%86%E8%A7%84%E5%BE%8B%E7%90%86%E8%A7%A3/</guid>
-      <description>弱相互作用下宇称不守恒 1957年杨振宁和李正道共同提出 李永乐老师视频讲解 个人理解：弱相互作用下宇称不守恒，相当于是弱相互作用下，粒子位置，不</description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;弱相互作用下宇称不守恒&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1957年杨振宁和李正道共同提出&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5f9lNwEdlcM&#34;&gt;李永乐老师视频讲解&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;个人理解：弱相互作用下宇称不守恒，相当于是弱相互作用下，粒子位置，不具备镜像对称性（物理规律的镜像性对应了宇称的守恒，宇称不守恒，即没有镜像性）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title>漂亮桌面</title>
       <link>https://clgithub.github.io/posts/%E6%BC%82%E4%BA%AE%E6%A1%8C%E9%9D%A2/</link>
       <pubDate>Wed, 23 Feb 2022 11:08:06 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E6%BC%82%E4%BA%AE%E6%A1%8C%E9%9D%A2/</guid>
-      <description></description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/5_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/5_3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/5_4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/5_5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/5_6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>极化码理解</title>
       <link>https://clgithub.github.io/posts/%E6%9E%81%E5%8C%96%E7%A0%81%E7%90%86%E8%A7%A3/</link>
       <pubDate>Wed, 02 Feb 2022 01:31:00 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E6%9E%81%E5%8C%96%E7%A0%81%E7%90%86%E8%A7%A3/</guid>
       <description>从信息发出到信息接收，需要传输信息的通道，即信道，为了让信息更好的在信道里传输，需要对信息进行编码&amp;hellip;</description>
     </item>
-    
     <item>
       <title>神书《python深度学习》学习笔记</title>
       <link>https://clgithub.github.io/posts/%E7%A5%9E%E4%B9%A6python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Tue, 11 Jan 2022 10:51:08 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E7%A5%9E%E4%B9%A6python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
-      <description>详细</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CLgithub/tensorFlowLearn/tree/master/learn2/0-book&#34;&gt;详细&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>log4j JNDI注入漏洞复现</title>
       <link>https://clgithub.github.io/posts/log4j-jndi%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</link>
       <pubDate>Fri, 07 Jan 2022 17:15:15 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/log4j-jndi%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</guid>
-      <description>详细 ​ 「黑客就像变魔术」，其中原理未必有多高深，但巧妙的将简单的原理运用起来，便会产生神器的效果！</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/CLgithub/Log4j2AttackLearn&#34;&gt;详细&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;「黑客就像变魔术」，其中原理未必有多高深，但巧妙的将简单的原理运用起来，便会产生神器的效果！&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>一个很早就有的想法</title>
       <link>https://clgithub.github.io/posts/%E4%B8%80%E4%B8%AA%E5%BE%88%E6%97%A9%E5%B0%B1%E6%9C%89%E7%9A%84%E6%83%B3%E6%B3%95/</link>
       <pubDate>Fri, 07 Jan 2022 17:09:06 +0800</pubDate>
-      
       <guid>https://clgithub.github.io/posts/%E4%B8%80%E4%B8%AA%E5%BE%88%E6%97%A9%E5%B0%B1%E6%9C%89%E7%9A%84%E6%83%B3%E6%B3%95/</guid>
-      <description>记录日常有趣事物，不管怎样，只是想把生命中有趣的事物、或是感悟或是思考记录下来，只有这种简单的文本格式的页面才是属于自己个人的，类型不限，可</description>
+      <description>&lt;p&gt;记录日常有趣事物，不管怎样，只是想把生命中有趣的事物、或是感悟或是思考记录下来，只有这种简单的文本格式的页面才是属于自己个人的，类型不限，可能有文字、视频、音频……，一个很早就有的想法，这是一个开始。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
